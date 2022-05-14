@@ -1,0 +1,17 @@
+body{
+background-color: cadetblue;
+}
+
+.home{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+    min-height: 800px;
+    border: red 1px solid;
+}
+
+.items{
+    flex: 1 1 180px;
+    border: rgb(17, 17, 17) 1px solid;
+}
